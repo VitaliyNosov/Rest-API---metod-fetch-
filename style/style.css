@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  font-size: 70px;
+  padding: 2rem;
+  font-family: 'Rubik Glitch';
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.heroes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: 'Rubik Glitch';
+}
+
+p {
+  font-weight: bold;
+  font-size: 16px;
+}
+/*# sourceMappingURL=style.css.map */
