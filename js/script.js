@@ -52,7 +52,7 @@ function setMembers(members) {
         `
         <div>
             <h3>${hero.name}</h3>
-            <p>Secret identity: ${hero.secretIdentity}</p>
+            <p class="secret">Secret identity: ${hero.secretIdentity}</p>
             <p>Age: ${hero.age}</p>
             <p>Superpower: </p>
             <ul>
